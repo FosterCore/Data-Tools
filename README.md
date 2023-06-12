@@ -1,4 +1,4 @@
 # Data-Tools
 
 Greetings dear community :smile:<br>
-I share my annotations of the knowledge obtained in my training as a data scientist. Hope you like it. :+1: 
+I am sharing my annotations on the knowledge I have acquired during my training as a data scientist. I hope you find them helpful. :+1: 
